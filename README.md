@@ -11,7 +11,7 @@
   <li>Each integer must be positive.</li>
   <li>The sum of the squares of two of the integers must equal the square of the third integer.</li>
 </ul><br>
-<p>Floating-point numbers and the Math library. The great-circle distance is the length of the shortest path between two points (x1,y1)and (x2,y2) on the surface of a sphere, 
+<p>3. Floating-point numbers and the Math library. The great-circle distance is the length of the shortest path between two points (x1,y1)and (x2,y2) on the surface of a sphere, 
   where the path is constrained to be along the surface.</p>
 <p>Write a program GreatCircle.java that takes four double command-line arguments x1, y1, x2, and y2
 —the latitude and longitude (in degrees) of two points on the surface of the earth—and prints the great-circle distance (in kilometers) between them. Use the following Haversine formula</p>
